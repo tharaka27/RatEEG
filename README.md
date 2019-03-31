@@ -1,3 +1,5 @@
+![ti_based sch](https://user-images.githubusercontent.com/27824621/55293189-6cea9180-5411-11e9-8384-b4ee8623f784.png)
+
 # RatEEG
 RatEEG is 4 channel EEG device for iSeizure project
 
@@ -29,6 +31,8 @@ Dr Shantha Fernando (Consultant Neurologist).    
 Our target is to build a portable 4-channel EEG along with heart rate sensor  So the final project will be a     
 
 “Low-cost wearable device to identify Tonic-clonic seizure using 4 channel EEG and heartbeat” 
+
+
 
 
 <h2>Background</h2>
