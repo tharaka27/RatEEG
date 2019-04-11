@@ -1,4 +1,4 @@
-update=3/31/2019 7:16:52 PM
+update=4/10/2019 5:36:37 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,6 +62,7 @@ LibName30=C:/Users/tharaka27/Downloads/LIB_ADS1299-4PAGR/ADS1299-4PAGR/KiCad/ADS
 LibName31=C:/Users/tharaka27/Downloads/LIB_1N5400-E3_54/1N5400-E3_54/KiCad/1N5400-E3_54
 LibName32=C:/Users/tharaka27/Downloads/LIB_AMS1117-5.0/AMS1117-5.0/KiCad/AMS1117-5.0
 LibName33=C:/Users/tharaka27/Downloads/LIB_ams1117-3.3v/ams1117-3.3v/KiCad/ams1117-3.3v
+LibName34=C:/Users/tharaka27/Downloads/LIB_TPD4E1B06DRLR/TPD4E1B06DRLR/KiCad/TPD4E1B06DRLR
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
