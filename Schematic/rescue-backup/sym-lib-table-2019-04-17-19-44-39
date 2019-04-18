@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name ti_based-rescue)(type Legacy)(uri ${KIPRJMOD}/ti_based-rescue.lib)(options "")(descr ""))
+  (lib (name ADS1299-4PAGR)(type Legacy)(uri C:/Users/tharaka27/Downloads/LIB_ADS1299-4PAGR/ADS1299-4PAGR/KiCad/ADS1299-4PAGR.lib)(options "")(descr ""))
+  (lib (name 1N5400-E3_54)(type Legacy)(uri C:/Users/tharaka27/Downloads/LIB_1N5400-E3_54/1N5400-E3_54/KiCad/1N5400-E3_54.lib)(options "")(descr ""))
+  (lib (name AMS1117-5.0)(type Legacy)(uri C:/Users/tharaka27/Downloads/LIB_AMS1117-5.0/AMS1117-5.0/KiCad/AMS1117-5.0.lib)(options "")(descr ""))
+  (lib (name ams1117-3.3v)(type Legacy)(uri C:/Users/tharaka27/Downloads/LIB_ams1117-3.3v/ams1117-3.3v/KiCad/ams1117-3.3v.lib)(options "")(descr ""))
+)
