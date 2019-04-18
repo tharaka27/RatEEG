@@ -1,4 +1,5 @@
-![ti_based sch](https://user-images.githubusercontent.com/27824621/55293189-6cea9180-5411-11e9-8384-b4ee8623f784.png)
+![RatEEGv1 0](https://user-images.githubusercontent.com/27824621/56342445-af63ea80-61d5-11e9-80be-bc1bf9a5927b.png)
+
 
 # RatEEG
 RatEEG is 4 channel EEG device for iSeizure project
