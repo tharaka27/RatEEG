@@ -1,8 +1,5 @@
-![RatEEGv1 0](https://user-images.githubusercontent.com/27824621/56342445-af63ea80-61d5-11e9-80be-bc1bf9a5927b.png)
+![Capture](https://user-images.githubusercontent.com/27824621/56383379-4ad97780-6237-11e9-8a9c-5fd9bbe9b885.PNG)
 
-
-# RatEEG
-RatEEG is 4 channel EEG device for iSeizure project
 
 <h1>Problem Tackling</h1>
 
@@ -34,8 +31,6 @@ Our target is to build a portable 4-channel EEG along with heart rate sensor  S
 “Low-cost wearable device to identify Tonic-clonic seizure using 4 channel EEG and heartbeat” 
 
 
-
-
 <h2>Background</h2>
 There are devices in the market which detects seizure like Nightwatch which is based on non-EEG devices.  These competitive devices 
 are based on ECG or heartbeat pattern. One key disadvantage of the Nightwatch device is as it is a non-EEG device, the false 
@@ -43,3 +38,24 @@ positive rate is very  high. Even for cold or after a long run your heart rate 
 The only  way to detect tonic-clonic seizure is to use an EEG device.  
 The key advantage of our device is that it is has a portable 4-channel EEG device which is specially  designed 
 for tonic-clonic seizure. This device will detect and Inform people nearby and also parents.  
+
+<h2>What should I know to contribute?</h2> 
+Electronics, PCB designing and Firmware development. App development.
+
+<h2>Target?</h2>
+Target is to create a wearable EEG device which connects to owners phone and inform him in case of a seizure forehand.
+
+<h2>How can I contribute?</h2>
+Please check the issues section. As I am not an expert in PCB designing my design is a mess. It's better if someone can make it better. And a desktop app should be made for debugging of device.
+  
+<h2>Work flow</h2>
+
+ - [x] schematic designing the EEG module
+ - [ ] PCB print
+ - [ ] Writing firmware
+ - [ ] Desktop application for debugging
+ - [ ] Android/ios app
+
+<br><br>
+  
+![RatEEGv1 0](https://user-images.githubusercontent.com/27824621/56342445-af63ea80-61d5-11e9-80be-bc1bf9a5927b.png)
